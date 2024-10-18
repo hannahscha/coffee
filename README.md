@@ -1,4 +1,5 @@
 Coffee Type Recommendation Model
+
 Overview
 - This project is a machine learning-based web app that recommends a coffee type based on user preferences. The app uses a pre-trained model to predict the ideal coffee type by taking various user inputs such as time of day, coffee strength, sweetness level, and more. The app is built using Python and Gradio to create an interactive user interface.
 
